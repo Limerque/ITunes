@@ -8,9 +8,9 @@
     "npm": "9.5.1"
   },
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1",
     "start": "nodemon index.js",
-    "heroku-postbuild": "npm run build"
+    "build": "tsc",
+    "lint": "eslint ."
   },  
   "author": "",
   "license": "ISC",
