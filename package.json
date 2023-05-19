@@ -9,7 +9,7 @@
   },
   "scripts": {
     "start": "nodemon index.js",
-    "build": "tsc",
+    "build": "echo 'No build step required for server-side code.'",
     "lint": "eslint ."
   },  
   "author": "",
