@@ -1,4 +1,3 @@
-```
 # iTunes Search App
 
 This is a web application that allows users to search for media content on iTunes and add their favorite items to a favorites list.
@@ -63,5 +62,3 @@ This app has implemented the following security measures:
 ## Deployed App
 
 The app is deployed and can be accessed at https://itunes-search.herokuapp.com/.
-
-```
