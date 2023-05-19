@@ -1,9 +1,7 @@
 # Ignore dependencies installed via npm or Yarn
 /node_modules
 
-# Ignore build artifacts
-/build
-/dist
+
 
 # Ignore environment-specific files
 .env
